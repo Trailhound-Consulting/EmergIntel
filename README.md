@@ -1,6 +1,8 @@
 # EmergIntel
 **European Emerging Technology Monitor**
 
+**[Explore the live dashboard](https://emergintel.streamlit.app/)**
+
 EmergIntel is a data analysis project exploring emerging-technology procurement across Europe using public procurement notices published through [Tenders Electronic Daily (TED)](https://ted.europa.eu/).
 
 The project combines XML data processing, structured storage, rule-based classification and interactive analytics to examine procurement activity across technology domains, countries and public-sector buyers.
